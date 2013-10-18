@@ -1,0 +1,4 @@
+[submodule "githooks-pwfilter"]
+	path = githooks-pwfilter
+	url = git@github.com:ifschleife/githooks-pwfilter
+	branch = master
