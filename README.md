@@ -1,4 +1,4 @@
 py3status-modules
 =================
 
-Modules forr my i3bar
+Modules for my i3bar
